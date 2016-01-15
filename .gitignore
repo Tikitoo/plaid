@@ -5,4 +5,5 @@ out
 prebuilts
 .DS_Store
 local.properties
-.gradle
+.gradle/
+.idea/

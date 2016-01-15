@@ -105,7 +105,7 @@ public class HomeActivity extends Activity {
     @Bind(android.R.id.empty) ProgressBar loading;
     private TextView noFiltersEmptyText;
     private GridLayoutManager layoutManager;
-    @BindInt(R.integer.num_columns) int columns;
+    @BindInt( R.integer.num_columns) int columns;
 
     // data
     private DataManager dataManager;
